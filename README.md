@@ -1,11 +1,11 @@
-# Daily Schedule for OS Tutorial Summer of Code 2020
+# Hjm's Daily Schedule for OS Tutorial Summer of Code 2024
 
 - daily_documents：每日笔记
 - part1-exercises-for-rust：rust的一些小练习
 - practice：rust写的一些小程序
-- labs：rCore的lab
+- labs：todo
 
-在此阶段实现的简易操作系统仓库：[https://github.com/yunwei37/MyrCore](https://github.com/yunwei37/MyrCore)
+在此阶段实现的简易操作系统仓库：[https://github.com/violetsakura777/todo](https://github.com/yunwei37/MyrCore)
 
 后续将会继续完善。
 
@@ -14,19 +14,21 @@
 - [rCore labs](labs)
 - [rust practices](part1-exercises-for-rust)
 
-zCore 开发的最终报告：[https://github.com/yunwei37/zcore_migration_notes/blob/master/report.md](https://github.com/yunwei37/zcore_migration_notes/blob/master/report.md)
+##备注 ：本记录fork from   [yunwei37](#https://github.com/yunwei37/os-summer-of-code-daily)  的2020记录，记录从4月开始
+
+
 
 ## TOC
 
-*七月*
+*四月*
 
 | Mon               | Tues              | Wed                          | Thur                         | Fri                          | Sat               | Sun               |
-| ----------------- | ----------------- | ---------------------------- | ---------------------------- | ---------------------------- | ----------------- | ----------------- |
-|                   |                   | 1 <br> ([D1](#day-1-202071)) | 2 <br> ([D2](#day-2-202072)) | 3 <br> ([D3](#day-3-202073)) | 4 <br> ([D4](#day-4-202074)) | 5 <br> ([D5](#day-5-202075)) |
-| 6 <br> ([D6](#day-6-202076)) | 7 <br> ([D7](#day-7-202077)) | 8 <br> ([D8](#day-8-202078))            | 9 <br> ([D9](#day-9-202079))            | 10 <br> ([D10](#day-10-2020710))         | 11  <br>  ([D11](#day-11-2020711))             | 12      <br>    ([D12](#day-12-2020712))       |
-| 13    <br>    ([D13](#day-13-2020713))             | 14         <br>    ([D14](#day-14-2020711))        | 15        <br>    ([D15](#day-15-2020715))                    | 16    <br>     ([D16](#day-16-2020716))                       | 17    <br>      ([D17](#day-17-2020717))                       | 18    <br>    ([D18](#day-18-2020718))            | 19   <br>     ([D19](#day-19-2020719))            |
-| 20   <br>    ([D20](#day-20-2020720))            | 21       <br>    ([D21](#day-21-2020721))         | 22     <br>    ([D22](#day-22-2020722))                         | 23     <br>    ([D23](#day-23-2020723))                         | 24    <br>    ([D24](#day-24-2020724))                        | 25      <br>    ([D25](#day-25-2020725))             | 26         <br>    ([D26](#day-26-2020726))           |
-| 27         <br>    ([D27](#day-27-2020727))           | 28       <br>    ([D28](#day-28-2020728))           | 29         <br>    ([D29](#day-29-2020729))                    | 30        <br>    ([D30](#day-30-2020730))                     |      <br>    ([D31](#day-31-2020731))                           |                   |                   |
+| :---------------- | ----------------- | :--------------------------- | ---------------------------- | ---------------------------- | ----------------- | ----------------- |
+|                   |                   | 1 <br> ([D1](#day-1-202071)) |      |      |      |      |
+|      |      |                              |      |      |      |      |
+|      |      |                              |      |      |      |      |
+|      |      |                              |      |      |      |      |
+|      |      |                              |      |      |                   |                   |
 
 *八月*
 
